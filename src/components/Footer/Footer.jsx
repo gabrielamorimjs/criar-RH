@@ -75,7 +75,7 @@ class Footer extends React.Component {
                     aria-describedby="basic-addon2"
                   />
                   <InputGroup.Append>
-                    <Button variant="outline-secondary">Button</Button>
+                    <Button variant="outline-secondary">Subscribe</Button>
                   </InputGroup.Append>
                 </InputGroup>
                 <div className="social-links">
